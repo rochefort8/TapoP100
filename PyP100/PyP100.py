@@ -158,6 +158,17 @@ class P100():
 			errorMessage = self.errorCodes[str(errorCode)]
 			raise Exception(f"Error Code: {errorCode}, {errorMessage}")
 
+		data = self.getDeviceInfo()
+
+		data = json.loads(data)
+
+		if data["error_code"] != 0:
+			errorCode = ast.literal_eval(decryptedResponse)["error_code"]
+			errorMessage = self.errorCodes[str(errorCode)]
+		else:
+			self.uuid = data["result"]["mac"]
+#			print (self.uuid)
+
 	def turnOn(self):
 		URL = f"http://{self.ipAddress}/app?token={self.token}"
 		Payload = {
@@ -166,6 +177,7 @@ class P100():
 				"device_on": True
 			},
 			"requestTimeMils": int(round(time.time() * 1000)),
+			"terminalUUID": self.uuid,
 		}
 
 		headers = {
@@ -197,6 +209,7 @@ class P100():
 				"brightness": brightness
 			},
 			"requestTimeMils": int(round(time.time() * 1000)),
+			"terminalUUID": self.uuid,
 		}
 
 		headers = {
@@ -228,6 +241,7 @@ class P100():
 				"device_on": False
 			},
 			"requestTimeMils": int(round(time.time() * 1000)),
+			"terminalUUID": self.uuid,
 		}
 
 		headers = {
