@@ -1,0 +1,6348 @@
+Loop 200 times.
+======== 1 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 2 =========
+ssh: connect to host 10.160.2.23 port 22: Operation timed out
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 3 =========
+ssh: connect to host 10.160.2.23 port 22: Operation timed out
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 4 =========
+ssh: connect to host 10.160.2.23 port 22: Operation timed out
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 5 =========
+ssh: connect to host 10.160.2.23 port 22: Operation timed out
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 6 =========
+ssh: connect to host 10.160.2.23 port 22: Operation timed out
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 7 =========
+ssh: connect to host 10.160.2.23 port 22: Operation timed out
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 8 =========
+ssh: connect to host 10.160.2.23 port 22: Operation timed out
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 9 =========
+ssh: connect to host 10.160.2.23 port 22: Operation timed out
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 10 =========
+ssh: connect to host 10.160.2.23 port 22: Operation timed out
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 11 =========
+ssh: connect to host 10.160.2.23 port 22: Operation timed out
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 12 =========
+ssh: connect to host 10.160.2.23 port 22: Operation timed out
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 13 =========
+ssh: connect to host 10.160.2.23 port 22: Operation timed out
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 14 =========
+ssh: connect to host 10.160.2.23 port 22: Operation timed out
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 15 =========
+ssh: connect to host 10.160.2.23 port 22: Operation timed out
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 16 =========
+ssh: connect to host 10.160.2.23 port 22: Operation timed out
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 17 =========
+ssh: connect to host 10.160.2.23 port 22: Operation timed out
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 18 =========
+ssh: connect to host 10.160.2.23 port 22: Operation timed out
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 19 =========
+ssh: connect to host 10.160.2.23 port 22: Operation timed out
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 20 =========
+ssh: connect to host 10.160.2.23 port 22: Operation timed out
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 21 =========
+ssh: connect to host 10.160.2.23 port 22: Operation timed out
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 22 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 23 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 24 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 25 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 26 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 27 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 28 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 29 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 30 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 31 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 32 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 33 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 34 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 35 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 36 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 37 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 38 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 39 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 40 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 41 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+Traceback (most recent call last):
+  File "p105.py", line 21, in <module>
+    p100.turnOn() 
+  File "/Users/yuji.ogihara/projects/SpaceDev/TapoP100/PyP100/PyP100.py", line 203, in turnOn
+    errorMessage = self.errorCodes[str(errorCode)]
+KeyError: '-1301'
+======== 42 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 43 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 44 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+Traceback (most recent call last):
+  File "p105.py", line 21, in <module>
+    p100.turnOn() 
+  File "/Users/yuji.ogihara/projects/SpaceDev/TapoP100/PyP100/PyP100.py", line 203, in turnOn
+    errorMessage = self.errorCodes[str(errorCode)]
+KeyError: '-1301'
+======== 45 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 46 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 47 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 48 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 49 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 50 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 51 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 52 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 53 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 54 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 55 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 56 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 57 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 58 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 59 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 60 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 61 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 62 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 63 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 64 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 65 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 66 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 67 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 68 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 69 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 70 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 71 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 72 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 73 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 74 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 75 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 76 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 77 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 78 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 79 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 80 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 81 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 82 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 83 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 84 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 85 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 86 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 87 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 88 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 89 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 90 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 91 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 92 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 93 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 94 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 95 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 96 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 97 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 98 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 99 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 100 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 101 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 102 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 103 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 104 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 105 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 106 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 107 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 108 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 109 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 110 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 111 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 112 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 113 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 114 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 115 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 116 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 117 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 118 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 119 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 120 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 121 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 122 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 123 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 124 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 125 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 126 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 127 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 128 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 129 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 130 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 131 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 132 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 133 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 134 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 135 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 136 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 137 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+Traceback (most recent call last):
+  File "p105.py", line 21, in <module>
+    p100.turnOn() 
+  File "/Users/yuji.ogihara/projects/SpaceDev/TapoP100/PyP100/PyP100.py", line 203, in turnOn
+    errorMessage = self.errorCodes[str(errorCode)]
+KeyError: '-1301'
+======== 138 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 139 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 140 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 141 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 142 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 143 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 144 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 145 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 146 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 147 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 148 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 149 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 150 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 151 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 152 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 153 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 154 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 155 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 156 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 157 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 158 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 159 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 160 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 161 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 162 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 163 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 164 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 165 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 166 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+Traceback (most recent call last):
+  File "p105.py", line 23, in <module>
+    p100.turnOff() 
+  File "/Users/yuji.ogihara/projects/SpaceDev/TapoP100/PyP100/PyP100.py", line 267, in turnOff
+    errorMessage = self.errorCodes[str(errorCode)]
+KeyError: '-1301'
+======== 167 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 168 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 169 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 170 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 171 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 172 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 173 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+client_loop: send disconnect: Broken pipe
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 174 =========
+client_loop: send disconnect: Broken pipe
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 175 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+client_loop: send disconnect: Broken pipe
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+client_loop: send disconnect: Broken pipe
+======== 176 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+client_loop: send disconnect: Broken pipe
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+client_loop: send disconnect: Broken pipe
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+client_loop: send disconnect: Broken pipe
+======== 177 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 178 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 179 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 180 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 181 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+client_loop: send disconnect: Broken pipe
+======== 182 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+client_loop: send disconnect: Broken pipe
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 183 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+client_loop: send disconnect: Broken pipe
+======== 184 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+client_loop: send disconnect: Broken pipe
+Traceback (most recent call last):
+  File "p105.py", line 21, in <module>
+    p100.turnOn() 
+  File "/Users/yuji.ogihara/projects/SpaceDev/TapoP100/PyP100/PyP100.py", line 203, in turnOn
+    errorMessage = self.errorCodes[str(errorCode)]
+KeyError: '-1301'
+======== 185 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+client_loop: send disconnect: Broken pipe
+======== 186 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 187 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+client_loop: send disconnect: Broken pipe
+EEPROM update pending. Please reboot to apply the update.
+client_loop: send disconnect: Broken pipe
+======== 188 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+client_loop: send disconnect: Broken pipe
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+client_loop: send disconnect: Broken pipe
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+client_loop: send disconnect: Broken pipe
+client_loop: send disconnect: Broken pipe
+client_loop: send disconnect: Broken pipe
+======== 189 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+client_loop: send disconnect: Broken pipe
+client_loop: send disconnect: Broken pipe
+======== 190 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 191 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 192 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 193 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 194 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 195 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+client_loop: send disconnect: Broken pipe
+======== 196 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+client_loop: send disconnect: Broken pipe
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=5000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 197 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+client_loop: send disconnect: Broken pipe
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 198 =========
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+client_loop: send disconnect: Broken pipe
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 199 =========
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-a.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-a.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+======== 200 =========
+client_loop: send disconnect: Broken pipe
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+ssh: connect to host 10.160.2.23 port 22: Connection refused
+app_0
+app_1
+app_2
+backup
+current
+data
+eeprom
+initial
+loader
+tests
+usbboot.txt
+EEPROM ~/eeprom/pieeprom-ogi-b.bin .
+[all]
+BOOT_UART=0
+WAKE_ON_GPIO=1
+POWER_OFF_ON_HALT=0
+DHCP_TIMEOUT=45000
+DHCP_REQ_TIMEOUT=4000
+TFTP_FILE_TIMEOUT=300000
+ENABLE_SELF_UPDATE=1
+DISABLE_HDMI=0
+BOOT_ORDER=0x14
+
+BCM2711 detected
+VL805 firmware in bootloader EEPROM
+*** INSTALLING /home2/elt/eeprom/pieeprom-ogi-b.bin  ***
+BOOTFS /boot
+EEPROM update pending. Please reboot to apply the update.
+client_loop: send disconnect: Broken pipe
+client_loop: send disconnect: Broken pipe
+client_loop: send disconnect: Broken pipe
+client_loop: send disconnect: Broken pipe
+client_loop: send disconnect: Broken pipe
+client_loop: send disconnect: Broken pipe
+client_loop: send disconnect: Broken pipe
+client_loop: send disconnect: Broken pipe
+client_loop: send disconnect: Broken pipe
